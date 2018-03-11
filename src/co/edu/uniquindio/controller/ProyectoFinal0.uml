@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_jfbrAHNoEeSJzcYRlOcrCg" name="ProyectoFinal0">
+  <packagedElement xmi:type="uml:Class" xmi:id="_E8WfAHNvEeSGYPBhv7UreA" name="VentanaMenu">
+    <ownedAttribute xmi:id="_joZVkHNvEeSGYPBhv7UreA" name="btnJugar" visibility="public"/>
+    <ownedAttribute xmi:id="_qI_UwHNvEeSGYPBhv7UreA" name="btnGestionEsenarios" visibility="public"/>
+    <ownedAttribute xmi:id="_uofl8HNvEeSGYPBhv7UreA" name="btnSalir" visibility="public"/>
+    <ownedOperation xmi:id="_3G1rQHNvEeSGYPBhv7UreA" name="VentanaMenu" visibility="public">
+      <ownedParameter xmi:id="_3G1rQXNvEeSGYPBhv7UreA" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_3LCOwHNvEeSGYPBhv7UreA" name="initGUI" visibility="public">
+      <ownedParameter xmi:id="_3LCOwXNvEeSGYPBhv7UreA" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_CZMJQHNwEeSGYPBhv7UreA" name="main" visibility="public">
+      <ownedParameter xmi:id="_CZMJQXNwEeSGYPBhv7UreA" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_DkNK4HNwEeSGYPBhv7UreA" name="actionPerformed" visibility="public">
+      <ownedParameter xmi:id="_DkOZAHNwEeSGYPBhv7UreA" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+</uml:Model>

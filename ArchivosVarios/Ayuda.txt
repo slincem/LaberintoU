@@ -1,0 +1,245 @@
+1;¿Qué hace la universidad?
++;Educa personas íntegras con capacidad de liderazgo
+-;Enseña a sus alumnos como realizar su trabajo en las empresas
+-;Orienta a sus estudiantes a ser mejores profesionales
+-;Preparar sus estudiantes para enfrentar los diversos problemas de la sociedad
+
+2;¿Cómo la Universidad educa personas íntegras con capacidad de liderazgo?
+-;Con la implementacion de tecnicas basadas en la teoria y no en la practica
++;Con fundamento en principios pedagógicos y administrativos
+-;Con metodologias orientadas al trabajo en la sociedad
+-;Con trabajo de campo en las empresas
+
+3;¿Qué garantiza la fundamentacion en principios pedagógicos y administrativos?
+-;El optimo desempeño en el ambiente laborar
+-;La implementacion de optimas soluciones a los problemas de la sociedad
++;La formación integral, la consolidación de grupos de investigación y redes de cooperación
+-;La aceptacion en las diferentes empresas que se encuentran en la sociedad
+
+4;¿Como espera ser la Universidad del Quindío en el año 2015?
+-;Tener mas sedes en el pais
++;Ser reconocida internacionalmente como una institución de alta calidad académica
+-;Tener diversidad de convenios con instituciones en todo el mundo
+-;Ser una institucion privada con mucho prestigio 
+
+5;Tres de los principios institucionales son:
+-;Resperto por los compañeros de trabajo, igualdad de oportunidades y trabajo en equipo
+-;Independencia a la hora de tomar decisiones, trabajo en equipo y conciencia ambiental
+-;Responsablidad, igualdad, respeto
++;Autonomía universitaria, responsabilidad social y sostenibilidad ambiental
+
+6;Agunos valores institucionales son:
+-;Diversidad, disciplina, igualdad, independecia
++;Creatividad y disciplina, ética, honestidad y transparencia
+-;Respeto,solidaridad e imparcialidad
+-;Equidad, responsabilidad, autonomia
+
+7;Dos de los objetivos institucionales son:
+-;Formar profecionales integros y competentes
+-;Generar conciencia ética en los futuros profecionales
++;Educar personas íntegras e impulsar la modernización pedagógica
+-;Motivar e insetivar a la sociedad a educarse 
+
+8;¿Cuales son las acciones estratégicas institucionales?
+-;Bienestar universitario, fometar el trabajo en equipo, generar diversidad en las opiniones
+-;Pedagogía, fomentar las opiniones, generar ambientes propicios para la educacion
+-;Generar criterio y diversidad de opiniones entre los que pertenecen a esta
++;Docencia, investigacion, proyección social y bienestar universitario;
+
+9;¿Cuales son las secciones del proyecto educativo del programa?
+-;Contexto informatico, objetivos, fundamentos administrativos
+-;Fundamentacion practica y administrativa, misión y visión
++;Contexto académico, visión y  misión, reto formativo, fundamentacion teórica y pedagógica y acciones estratégicas
+-;Fundamentacion pedagógica, objetivos y contexto académico
+
+10;Es siguiente parrafo pertenece a la Misión del programa
+-;El programa de Ingeniería de Sistemas y Computación fomenta el crecimiento del conocimiento de los estudiantes en tecnologia
++;El Programa de Ingeniería de Sistemas y Computación educa profesionales idóneos para responder a las necesidades del sector empresarial en aspectos relacionados con el software
+-;El programa de Ingeniería de Sistemas y Computación proporciona los ambientes propicios para la generacion de soluciones a las diferentes problematicas que se presentan dia a dia en la sociedad
+-;El programa de Ingeniería de Sistemas y Computación genera personal idoneo para dedicarse al desarrollo de software en las diferentes empresas del pais
+
+11;¿Qué espera el Programa de Ingeniería de Sistemas y Computación en el año 2015?
++;Ser reconocido nacionalmente por su alta calidad académica y la excelencia en su proyecto educativo
+-;Tener mas materias vinculadas a su pensul
+-;Ser reacreditado por su gran nivel academico
+-;Incremetar el numero de estudiantes que pueden cursar sus carreras
+
+12;¿Qué espera el Programa de Ingeniería de Sistemas y Computación para el 2020?
+-;Aumentar el nivel de sus educandos para, asi poder competir con las demas instituciones del pais
++;Ser una unidad académica con proyección internacional, que realizará aportes a través de investigación de calidad
+-;Tener alianzas con mas universidades a nivel nacional
+-;Extender su programa a las demas sedes de la universidad en el pais
+
+13;¿Uno de los principales objetivos del programa es?
+-;Preparar al Ingeniero de Sistemas y Computación para dar una solucion optima a los problemas de la sociedad
++;Formar al Ingeniero de Sistemas y Computación para integrar grupos interdisciplinarios en el desarrollo de proyectos informáticos que formen parte de la solución de problemas de las empresas
+-;Intruir al Ingeniero de Sistemas y Computación en las diversas tecnologias que se encuentran el el pais
+-;Proveer al Ingeniero de Sistemas y Computación de las herramientas necesarias para brindar soluciones optimas a los problemas que presenta la sociedad 
+
+14;Los profesionales del programa de ingeniería de sistemas y computación deben:
+-;Estar capacitados para solucionar los problemas que se generen en su entorno laboral o social
+-;Tener las aptitudes necesarias para dejar en alto a la universidad en las diferentes competencias con otras universidades
+-;Estar preparados para enfrentar los diversos obstaculos que se presentan en el dia a dia de las empresas y en la vida cotidiana
++;Ser capaces de responder a los desafíos y compromisos con la sociedad, mediante la interacción permanente con los actores del desarrollo
+
+15;¿Qué es FiTI?
+-;Formacion industrial del Talento Integral
+-;Formacion integral en Tecnologia e Innovacion
++;Fortalecimiento de la industria TI
+-;Fortalecimiento e innovacion TI
+
+16;Una persona desarrolladora de software es: 
++;Una persona con capacidad de participación en la construcción sistemas informáticos
+-;Una persona capacitada para dar soporte, resolver problemas técnicos 
+-;Una persona que participa en la evaluación, adquisición y administración de todos los recursos informáticos
+-;Una persona con espíritu innovador, capaz de identificar y soluciones necesidades sociales 
+
+17;¿En qué cargos puede desempeñarse un ingeniero de sistemas y computación egresado de la Universidad del Quindío?
+-;Politico
+-;Analista financiero
++;Docente-Investigador
+-;Contador
+
+18;¿En qué áreas se puede desempeñar el Ingeniero de Sistemas y Computación de la Universidad del Quindío?
+-;Recursos humanos, diseño de planes de contingencia 
++;Ingeniería de software, gestión y organizaciones
+-;Manejo de recusros economicos, gestión y organizacion
+-;Realizacion de presupuestos, manejo de recursos humanos
+
+19;Algunos grupos de estudios son:
++;Grupo de estudio en Pensamiento Sistémico, grupo de estudio en Realidad aumentada, grupo de estudio en Juegos coide
+-;Grupo de estudio sistemas contables, grupo de diseño de juegos educativos
+-;Grupo de estudio de realidad apilicada a la computacion
+-;Grupo de estudio de pensamiento critico, grupo de estudio en programación
+
+20;Dos de las empresas de experimentacion son:
+-;Heinsohn y Microsoft
++;Swaat y Heinsohn
+-;Microsoft y Oracle
+-;Parque soft y la Universidad del Quindío
+
+21;Dos de los requisitos para la inscripcion de los estudiantes de pregrado son:
++;Formulario de inscripción diligenciado y pruebas de Estado vigentes
+-;Pagar derechos de matricula
+-;Llevar los documentos pertinentes
+-;Comprar pin
+
+22;¿Cuál es la misión institucional de la universidad del Quindío?.
++;Educar personas íntegras con capacidad de liderazgo
+-;Ganar presupuesto por medio de la matrícula académica
+-;Ser reconocida como una de las mejores universidades a nivel nacional\n 
+-;Ninguna de las anteriores;
+
+23;¿De qué forma la universidad del Quindío cumple su misión institucional?
+-;Con fundamento en principios pedagógicos.
+-;Con equidad y máxima cobertura.
+-;En un proceso constante de mejoramiento de la calidad.
++;Todas las anteriores;
+
+24;¿Cuál es la visión institucional de la universidad del Quindío?
++;En el 2015 ser reconocida internacionalmente.
+-;Ser una institución de alta calidad académica pero con  poca excelencia en sus proyectos educativos.
+-;Responder a los desafíos, sueños y compromisos con la sociedad.
+-;Ser reconocida como la universidad con más presupuesto;
+
+25;¿Cuál es un principio institucional de la universidad del Quindío?
++;Responsabilidad social.
+-;Amor y autoestima.
+-;Justicia y solidaridad.
+-;Vocación;
+
+26;¿Cuántos estudiantes se matricularon por primera vez en el programa de ingeniería de sistemas en el 2012?
+-;554 estudiantes.
+-;540 estudiantes.
++;134 estudiantes.
+-;Alrededor de 400 estudiante;
+
+27;¿Qué actividad cultural o deportiva de bienestar institucional  se considera opcional hoy en día en la universidad del Quindío?
++;Créditos culturales y deportivos.
+-;Semana universitaria.
+-;Agendas culturales
+-;Ninguna de las anteriores;
+
+28;¿A qué se le conoce como supletorio?
+-;Al profesor que se encarga de sustituir a otro en casos extraordinarios.
+-;A las evaluaciones que se presentan cuando todo un curso pierde la evaluación oficial.
++;A las evaluaciones que se presentan en fecha posterior a las señaladas oficialmente
+-;Todas las anteriores;
+
+29;Según el reglamento estudiantil, ¿Cuáles son los deberes de los estudiantes?
+-;Representar a la  universidad en los  eventos académicos, culturales  o deportivos  cuando la institución lo requiera.
+-;Identificarse con el carnet de estudiante cuando se le solicite.
+-;Abstenerse de ejercer actos  de discriminación.
++;Todas las anteriores;
+
+30;¿Qué prueba(s) se realizan durante el proceso de selección de un profesor de planta?
+-;Prueba técnico-científica y prueba física 
++;Prueba pedagógica , prueba de inglés y prueba técnico-científica	
+-;Solo prueba pedagógica.
+-;Solo prueba de inglés;
+
+31;¿De qué manera son seleccionados los profesores catedráticos y ocasionales?
++;Son seleccionados por convocatoria.
+-;Son seleccionados por el desempeño en pruebas realizadas.
+-;Son seleccionados estrictamente por el director del programa.
+-;Son seleccionados de acuerdo a las especializaciones que posea;
+
+32;¿Uno de los requisitos para ser profesor de planta es?	
+-;Haber terminado la universidad.
+-;Tener los conocimientos pertinentes acerca de la materia.
++;Tener un título de maestría.
+-;Ninguna de las anteriores;
+
+33;¿En qué consiste el perfil de formación integral de un ingeniero de sistemas?
+-;Aplicar los conocimientos, habilidades y destrezas en un campo ocupacional específico
++;Demostrar los conocimientos, habilidades y destrezas
+-;Aplicación de habilidades en un campo específico 
+-;Todas las anteriores;
+
+34;¿Qué es la ingeniería de sistemas y computación?
+-;Es poder conocer cada parte del computador.
+-;Título que puede conseguir la persona que conozca el funcionamiento del computador.
+-;Carrera universitaria que en la cual solo se debe saber matemáticas
++;Profesión en la cual los conocimientos matemáticos y de ciencias básicas adquiridos, son utilizados para poder solucionar problemas dela sociedad;
+
+35;Uno de los requisitos para poder graduarse es:
+-;Pasar estructuras de datos .
++;Haber sido aceptado el trabajo de grado.
+-;haber estado en un grupo de investigación.
+-;Ninguna de las anteriores;
+
+36;¿Cuantos egresados han habido en el programa de ingeniería de sistemas?
+-;538.
+-;621.
+-;310.
++;601;
+
+37;¿Con cuantas salas de diseño cuenta la facultad de ingeniería?
+-;2
++;3
+-;5
+-;0;
+
+37;¿Señale cuál de los siguientes items hace parte de la misión de la universidad?
+-;… interactuando con los autores del desarrollo comercial.
+-;… educa profesionales idóneos para responder a las necesidades del sector informático.
++;… Genera y aplica conocimiento en el entorno social.
+-;… en función del bienestar y mejoramiento de la calidad vida de la sociedad quindiana; 
+
+39;¿Cuantas áreas de profundización hay en el programa?
+-;1
++;4
+-;3
+-;6;
+
+40;¿De cuantas maneras podemos presentar nuestro trabajo de grado?
+-;Solo con  las pasantías
+-;Proyecto de aplicación y pasantías
+-;Proyecto de aplicación.
++;Proyecto de aplicación, proyecto de investigación y pasantías;
+
+41;¿Cuál de estos grupos de investigación tiene una categoría de “D”  de Colciencias?
++;CIDERA
+-;SINFOCI
+-;GRID
+-;Ninguna de las anteriores;

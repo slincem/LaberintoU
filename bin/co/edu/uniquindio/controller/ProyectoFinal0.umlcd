@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_wTqygHNoEeSJzcYRlOcrCg">
+  <modelElement href="ProyectoFinal0.uml#_jfbrAHNoEeSJzcYRlOcrCg"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_E_0CsHNvEeSGYPBhv7UreA" name="VentanaMenu">
+    <modelElement href="ProyectoFinal0.uml#_E8WfAHNvEeSGYPBhv7UreA"/>
+    <visualProperties xmi:id="_E_0CsXNvEeSGYPBhv7UreA" position="29.0,84.0" size="208.0,-1.0"/>
+    <visibility xmi:id="_E_0CsnNvEeSGYPBhv7UreA" label="+"/>
+    <attributes xmi:id="_joyXIHNvEeSGYPBhv7UreA" name="btnJugar">
+      <modelElement href="ProyectoFinal0.uml#_joZVkHNvEeSGYPBhv7UreA"/>
+      <visualProperties xmi:id="_v7zA4HNvEeSGYPBhv7UreA"/>
+      <visibility xmi:id="_joyXIXNvEeSGYPBhv7UreA" label="+"/>
+      <cardinality xmi:id="_joyXInNvEeSGYPBhv7UreA" label="1" max="1" min="1"/>
+    </attributes>
+    <attributes xmi:id="_qJBJ8HNvEeSGYPBhv7UreA" name="btnGestionEsenarios">
+      <modelElement href="ProyectoFinal0.uml#_qI_UwHNvEeSGYPBhv7UreA"/>
+      <visualProperties xmi:id="_v78x4HNvEeSGYPBhv7UreA"/>
+      <visibility xmi:id="_qJCYEHNvEeSGYPBhv7UreA" label="+"/>
+      <cardinality xmi:id="_qJCYEXNvEeSGYPBhv7UreA" label="1" max="1" min="1"/>
+    </attributes>
+    <attributes xmi:id="_uoipQHNvEeSGYPBhv7UreA" name="btnSalir">
+      <modelElement href="ProyectoFinal0.uml#_uofl8HNvEeSGYPBhv7UreA"/>
+      <visualProperties xmi:id="_v78x4XNvEeSGYPBhv7UreA"/>
+      <visibility xmi:id="_uoipQXNvEeSGYPBhv7UreA" label="+"/>
+      <cardinality xmi:id="_uoipQnNvEeSGYPBhv7UreA" label="1" max="1" min="1"/>
+    </attributes>
+    <operations xmi:id="_3G_cQHNvEeSGYPBhv7UreA" name="VentanaMenu">
+      <modelElement href="ProyectoFinal0.uml#_3G1rQHNvEeSGYPBhv7UreA"/>
+      <visibility xmi:id="_3G_cQXNvEeSGYPBhv7UreA" label="+"/>
+      <outParameters xmi:id="_3G_cQnNvEeSGYPBhv7UreA">
+        <modelElement href="ProyectoFinal0.uml#_3G1rQXNvEeSGYPBhv7UreA"/>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3LErAHNvEeSGYPBhv7UreA" name="initGUI">
+      <modelElement href="ProyectoFinal0.uml#_3LCOwHNvEeSGYPBhv7UreA"/>
+      <visibility xmi:id="_3LErAXNvEeSGYPBhv7UreA" label="+"/>
+      <outParameters xmi:id="_3LErAnNvEeSGYPBhv7UreA">
+        <modelElement href="ProyectoFinal0.uml#_3LCOwXNvEeSGYPBhv7UreA"/>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_CZMJQnNwEeSGYPBhv7UreA" name="main">
+      <modelElement href="ProyectoFinal0.uml#_CZMJQHNwEeSGYPBhv7UreA"/>
+      <visibility xmi:id="_CZMJQ3NwEeSGYPBhv7UreA" label="+"/>
+      <outParameters xmi:id="_CZMJRHNwEeSGYPBhv7UreA">
+        <modelElement href="ProyectoFinal0.uml#_CZMJQXNwEeSGYPBhv7UreA"/>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_DkRcUHNwEeSGYPBhv7UreA" name="actionPerformed">
+      <modelElement href="ProyectoFinal0.uml#_DkNK4HNwEeSGYPBhv7UreA"/>
+      <visibility xmi:id="_DkRcUXNwEeSGYPBhv7UreA" label="+"/>
+      <outParameters xmi:id="_DkRcUnNwEeSGYPBhv7UreA">
+        <modelElement href="ProyectoFinal0.uml#_DkOZAHNwEeSGYPBhv7UreA"/>
+      </outParameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
